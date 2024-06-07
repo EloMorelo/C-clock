@@ -1,7 +1,7 @@
 # PL Zegar c++
 zakładamy stałą liczbę procesów i kroków symulacji (5,10)
 
-Mutexy (clock_mutexes) do synchronizacji dostępu do zegarów
+Mutexy (clock_mutexes) do synchronizacji dostępu do zegarów \
 liczby atomowe - https://stackoverflow.com/questions/31978324/what-exactly-is-stdatomic
 
 # processFunction
